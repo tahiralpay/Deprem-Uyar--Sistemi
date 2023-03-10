@@ -1,1 +1,1 @@
-# Deprem-Uyar-Sistemi
+# Deprem-Uyari-Sistemi
